@@ -1,6 +1,6 @@
 # UCI-IEEE-Open-Project-Space
 
-UCI IEEE OPS(https://ieee.ics.uci.edu/ops.html)
+[IEEE @ UCI - OPS](https://ieee.ics.uci.edu/ops.html)
 
 Open Project Space (OPS) is a year-long program held by IEEE geared toward giving undergraduate students an opportunity to get hands-on experience with embedded systems. The program is made up of:
 
